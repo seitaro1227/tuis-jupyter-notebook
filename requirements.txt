@@ -2,5 +2,3 @@ pandas
 geocoder
 folium
 geopandas
-geopy
-osmnx
